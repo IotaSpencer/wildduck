@@ -1,0 +1,2 @@
+module Wildduck
+end

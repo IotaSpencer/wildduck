@@ -1,0 +1,3 @@
+module Wildduck
+  VERSION = '0.0.1'
+end
