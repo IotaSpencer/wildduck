@@ -22,6 +22,7 @@ Gem::Specification.new do |s|
   s.platform      = Gem::Platform::RUBY
   s.require_paths = ['lib']
   s.add_dependency 'httparty', '~> 0.17.3'
+  s.add_dependency 'tty-config', '>= 0.3.2'
   s.add_development_dependency 'bundler', '~> 2.1.1'
   
 end
